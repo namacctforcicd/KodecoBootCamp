@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="X_axis">X Axis:</string>
+    <string name="Y_axis">Y Axis:</string>
+</resources>
